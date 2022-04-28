@@ -1,0 +1,23 @@
+.rainbow {
+    width: 1366px;
+    height: 768px;
+    background: radial-gradient(
+      ellipse at center bottom,
+      #ffffff 28%,
+      #5630C3 28%,
+      #5630C3 34%,
+      #0225F3 34%,
+      #0225F3 40%,
+      #2AC3FC 40%,
+      #2AC3FC 46%,
+      #41C903 46%,
+      #41C903 52%,
+      #FEF506 52%,
+      #FEF506 58%,
+      #FE9307 58%,
+      #FE9307 64%,
+      #FE080D 64%,
+      #FE080D 70%,
+      #ffffff 70%
+    );
+}

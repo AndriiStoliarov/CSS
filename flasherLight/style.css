@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 0 auto;
+  background-color: #54BFEA;
+  width: 348px;
+  height: 348px;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 8px;
+}
+
+.flasher {
+  width: 134px;
+  height: 143px;
+  background-color: #FF6F58;
+  border-top-left-radius: 47%;
+  border-top-right-radius: 47%;
+}
+
+.flasherFooter {
+  width: 164px;
+  height: 31px;
+  background-color: #344B5E;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.lightInto {
+  width: 35px;
+  height: 35px;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  transform: translate(23px, 19px) skew(-30deg);
+}
+
+.lightOut {
+  width: 134px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.lightOut div {
+  width: 11px;
+  height: 42px;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+}
+
+.centerRay {
+  transform: translate(-1.5px, -1px);
+}
+
+.leftRay {
+  transform: translate(-6px, 19px) rotate(-47deg);
+}
+
+.rightRay {
+  transform: translate(2px, 19px) rotate(47deg);
+}
+
