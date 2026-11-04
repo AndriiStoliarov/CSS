@@ -1,3 +1,7 @@
 # CSS
 
+**Cascading Style Sheets** (**CSS**) is a style sheet language used for specifying the presentation and styling of a document written in a markup language, such as HTML or XML (including XML dialects such as SVG, MathML, or XHTML). CSS is a cornerstone technology of the World Wide Web.
+
 ## onlineTutorials
+
+A collection of compact UI design projects showcasing CSS capabilities and creative animations.
